@@ -1,0 +1,5 @@
+Napisz program, który będzie się pytał użytkowania o liczbę.
+
+Chcemy sprawdzić, czy jest ona równa szukanej liczbie. Jeśli podana przez użytkownika liczba będzie za duża, to otrzyma on informacje ze jest za duża, natomiast, jeśli będzie za mała w porównaniu do szukanej, to otrzyma on informację, że jest za mała. 
+
+(Sekretną liczbą jest liczba 40)
