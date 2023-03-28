@@ -1,12 +1,11 @@
-Stwórz menu, z którego użytkownik, może wybrać opcje, aby policzyć powierzchnie figur:
+Create a menu from which the user, can select options to count the areas of figures:
 
-1) prostokąta
+1) rectangle
 
-2) kwadratu
+2) square
 
-3) trójkąta
+3) triangle
 
-4) trapezu
+4) trapezoid
 
-5) koła
-
+5) circle
