@@ -1,0 +1,5 @@
+Write a program that asks usage for a number.
+
+We want to check if it is equal to the searched number. If the number given by the user is too large, it will receive information that it is too large, while if it is too small compared to the number sought, it will receive information that it is too small. 
+
+(The secret number is 40)
