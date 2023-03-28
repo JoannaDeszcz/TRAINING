@@ -1,0 +1,20 @@
+Write a short game in which you have 5 one-way moves through a chamber.
+
+Each time you have a chance to meet a crate or nothing on the way.
+
+The crates have different colors.
+
+The color of the crate indicates how rare the crate is.
+
+green - 75%
+orange - 20%
+purple - 4%
+gold (legendary) - 1%
+
+Set that there is a 40% chance that you won't meet anything. 60% that there will be a crate.
+
+Set gold as what can "fall out" of the crate:
+green - 1000,
+orange - 4000,
+purple - 9000,
+gold - 16000
